@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bryanalves3
-Aqui vocês veram alguns testes que uso durante estudos e alguns projetos desenvolvidos por mim. 
-Caso tenham interesse em entrar em contato comigo, peço que me mandem mensagem no LinkedIn.
-Obrigado por ler isso e até mais!
+- 👋 Hi, I’m @bryanalves3! 
+Here you will see some tests that I use during studies and some projects developed by me. 
+If you are interested in contacting me, please send me a message on LinkedIn.
+Thanks for reading this and see you more!
 - 📫 How to reach me? https://www.linkedin.com/in/bryanwalves/
 
 <!---
